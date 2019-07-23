@@ -14,5 +14,5 @@ Lift Gate : Automatic
 
 # Design UML diagram.
 
-![LiftDesign_SingleLift](https://github.com/pushkarchawda/Design_Questions/blob/master/LiftDesign_MultiLift/LiftDesign_MultiLift.jpg)
+![LiftDesign_MultiLift](https://github.com/pushkarchawda/Design_Questions/blob/master/LiftDesign_MultiLift/LiftDesign_MultiLift.jpg)
 
